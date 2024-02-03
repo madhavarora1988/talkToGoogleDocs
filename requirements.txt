@@ -1,0 +1,12 @@
+openai
+chromadb
+langchain
+tiktoken
+langchain-experimental
+langchain-community
+youtube-transcript-api
+pytube
+langchain-openai
+pandas
+openpyxl
+pyarrow
