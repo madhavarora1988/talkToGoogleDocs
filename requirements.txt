@@ -10,3 +10,5 @@ langchain-openai
 pandas
 openpyxl
 pyarrow
+anthropic
+langchain-anthropic
